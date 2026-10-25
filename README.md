@@ -1,2 +1,6 @@
-# XCCESI
-Gastrobar recreativo y de conexión social, sin muros ciegos ni rincones oscuros, con mesas modulares y un menú de retos que invita a interactuar
+# XCCESI – Gastrobar de conexión social
+
+Sitio web del proyecto académico de Innovación y Emprendimiento (Universidad Católica de Colombia, Facultad de Ingeniería).
+Todos los precios, eventos y datos son simulados.
+
+Sitio estático (HTML/CSS/JS, sin build). Se despliega en Azure Static Web Apps con GitHub Actions.
